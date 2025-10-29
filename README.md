@@ -185,9 +185,9 @@ GROUP BY YEAR(OrderDate), MONTH(OrderDate);
 - Enhanced decision-making using SQL-driven KPIs.
 
 🔮 Future Enhancements
--Integrate Power BI for visualization of SQL insights.
--Add Python-based forecasting models for sales prediction.
--Automate daily ETL pipelines for data refresh.
+- Integrate Power BI for visualization of SQL insights.
+- Add Python-based forecasting models for sales prediction.
+- Automate daily ETL pipelines for data refresh.
 
 
 👤 Author & Contact
