@@ -169,7 +169,7 @@ GROUP BY YEAR(OrderDate), MONTH(OrderDate);
 ```
 
 
-🧾 Key Insights
+## 🧾 Key Insights
 
 - Electronics and Clothing were top-performing categories.
 - Customers Sameer and Jane showed the highest total spending.
@@ -178,21 +178,21 @@ GROUP BY YEAR(OrderDate), MONTH(OrderDate);
 - March and April recorded peak order volumes.
   
 
-🏁 Results & Business Impact
+## 🏁 Results & Business Impact
 - Improved inventory management and stock planning.
 - Identified high-value customers for loyalty programs.
 - Optimized marketing targeting and product strategy.
 - Enhanced decision-making using SQL-driven KPIs.
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 - Integrate Power BI for visualization of SQL insights.
 - Add Python-based forecasting models for sales prediction.
 - Automate daily ETL pipelines for data refresh.
 
 
-👤 Author & Contact
+## 👤 Author & Contact
 
 Kailas Kakde
-📊 Data Analyst | SQL | Power BI | Python | Excel
-📧 Email: kakdekailas0@gmail.com
-🌐 LinkedIn: linkedin.com/in/kailas-kakde-b62ab2289
+- 📊 Data Analyst | SQL | Power BI | Python | Excel
+- 📧 Email: kakdekailas0@gmail.com
+- 🌐 LinkedIn: linkedin.com/in/kailas-kakde-b62ab2289
